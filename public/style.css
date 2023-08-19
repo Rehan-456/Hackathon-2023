@@ -1,0 +1,38 @@
+@media(min-width:600px){
+    .rootcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.pcard{
+    max-width: 500px;
+    /* margin: 5px; */
+}
+.signupcard{
+    max-width: 600px !important;
+    margin: 20px auto !important;
+    padding: 10px !important;
+}
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.productInput{
+    width: 40px;
+    margin: 10px;
+}
+.space{
+    margin: 10px;
+    padding: 5px;
+}
+.font{
+    font-size: 44px;
+    font-weight: bold;
+}
+.loginfont{
+    color: rgb(81, 119, 119);
+    font-weight: 400;
+    font-size: 18px; 
+    margin-top: 10px;   
+}
