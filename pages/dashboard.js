@@ -34,8 +34,8 @@ export default function Dashboard({blogs}){
     
     <div>
       <h1 className="font">Dashboard</h1>
-      <div>
-         Hello, {email}
+      <div className = "font1">
+         Welcome, {email}
         
       </div>
       <div className="container card signupcard center-align">
